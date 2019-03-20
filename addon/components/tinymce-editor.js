@@ -40,7 +40,7 @@ export default Ember.Component.extend({
       return;
     }
 
-    editor.on('change keyup keydown keypress redo undo',
+    editor.on('change keyup keydown keypress mousedown redo undo',
               run.bind(this, this.debounceContentChanged, editor, changeDebounce));
   }),
 
