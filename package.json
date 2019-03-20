@@ -1,6 +1,6 @@
 {
-  "name": "ember-cli-tinymce",
-  "version": "0.3.2",
+  "name": "ember-cli-tinymce-extended",
+  "version": "0.0.1",
   "description": "The ember WYSIWYG editor powered by tinyMCE",
   "keywords": [
     "ember-addon",
@@ -12,7 +12,7 @@
     "text"
   ],
   "license": "MIT",
-  "author": "Marcin Lazar",
+  "author": "Orion Pos",
   "directories": {
     "doc": "doc",
     "test": "tests"
