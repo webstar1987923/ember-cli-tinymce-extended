@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-tinymce',
+  name: 'ember-cli-tinymce-extended',
   contentFor: function(type, config) {
     var content = '';
 
