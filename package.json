@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-tinymce-extended",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The ember WYSIWYG editor powered by tinyMCE",
   "keywords": [
     "ember-addon",
